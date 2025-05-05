@@ -4,9 +4,10 @@ Vamos a hacer un diagrama de flujo y un pseudocódigo para saber los numeros pri
 Los numeros primos son aquellos números que son divisibles entre 1 y ellos mismos, por ejemplo el 2,3,5.
 ### Pseudocódigo
 
-bueno yo me ayude un poquito de IA pero no me sirvio de mucho asi que me toco modificarlo viendo que si sirviera claramente, tambien investigue sobre cosas que aparecian como por ejemplo el %. yo no sabia que eso en programación te da el residuo de la división.
-    
-    
+yo investigue un poco sobre como se podia llegar a hacer un algoritmo para este reto y de ahi pues fui viendo que agregar y viendo si como lo iba haciendo si servia, tambien investigue sobre cosas que aparecian como por ejemplo el % que eso hace que la operacion te de como resultado el residuo
+
+
+
     [variables]
     i=entero
     j=entero
